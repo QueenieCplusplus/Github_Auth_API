@@ -23,4 +23,10 @@
  * Web Server + DB Server
  
   詳見 codebase 中
+  
+  ＊ 1_basic_apollo_restful_api.js 
+  
+  ＊ 2_basic_context.js
+  
+  ＊ 3_basic_schema_and_resolver.js
 

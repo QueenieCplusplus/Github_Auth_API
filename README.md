@@ -19,4 +19,8 @@
     GitHub 官方： 回應使用者資訊: name、githubLogin、avatar。
 
     API（後端）: 使用 AuthPayload 解析 authUser(code) mutation，內含權仗與使用者。
+    
+ * Web Server + DB Server
+ 
+  詳見 codebase 中
 

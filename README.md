@@ -1,6 +1,4 @@
-# Github_Auth_API
-
-* Oauth 授權程序
+# Oauth 授權程序
 
     1. client server 端（即用戶端或是前端）: 使用 url 和 client_id 向 GitHub 申請(request)代碼 code。
 
@@ -27,4 +25,8 @@
    * 2_basic_context.js
   
    * 3_basic_schema_and_resolver.js
+   
+ # Github_Auth_API
+ 
+   (to be continued...)
 

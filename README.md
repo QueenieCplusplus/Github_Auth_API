@@ -20,7 +20,7 @@
 
     9. API（後端）: 使用 AuthPayload 解析 authUser(code) mutation，內含權仗與使用者。
     
-  Web Server + DB Server
+ Web Server + DB Server
   
    * 1_basic_apollo_restful_api.js 
   
